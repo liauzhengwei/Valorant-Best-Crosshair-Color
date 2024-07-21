@@ -1,5 +1,5 @@
 # Valorant-Best-Crosshair-Color
-- Determines the best crosshair color when playing the 3D tactical shooter game Valorant based on color of Valorant Agents
+- Determines the best crosshair color when playing the 3D tactical shooter game Valorant
 
 ## Steps Performed
 1. Obtain the textures of each Valorant agent by following this [guide](https://www.reddit.com/r/VALORANT/comments/qf16q8/guide_to_viewingextracting_3d_valorant_models_of/) from Reddit
